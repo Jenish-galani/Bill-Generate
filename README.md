@@ -1,7 +1,7 @@
 # 📃 Bill Generate system .
 
 # First, create a database named 'BillGenerate' and then run it.
-A Spring Boot Backend Application designed to manage inventory operations effortlessly! This system enables seamless bill generation, WhatsApp notifications, SMS alerts, email communication, and much more using powerful tools like Twilio and Spring Boot. 🚀
+# A Spring Boot Backend Application designed to manage inventory operations effortlessly! This system enables seamless bill generation, WhatsApp notifications, SMS alerts, email communication, and much more using powerful tools like Twilio and Spring Boot. 🚀
 🌟 Features
 📦 Product Management: Add, update, and track product inventory efficiently.
 🧾 Bill Generation: Automatically generate bills with GST and discount calculations.
